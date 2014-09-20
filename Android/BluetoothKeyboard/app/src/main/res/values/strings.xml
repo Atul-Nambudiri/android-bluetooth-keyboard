@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothKeyboard</string>
+    <string name="text">Press the button to start bluetooth connect</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_on">Toggle Bluetooth</string>
+    <string name="button_scan">Scan for connections</string>
+    <string name="button_pair">Find Paired</string>
+    <string name="button_start">Start typing</string>
+    <string name="text_initial">Write here</string>
+
+</resources>
